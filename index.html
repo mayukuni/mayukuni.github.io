@@ -2,12 +2,100 @@
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8">
-    <title>HTML</title>
+    <title>Mayumi Kuniyoshi</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;1,100&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;1,100&family=Roboto:ital,wght@0,100;1,100;1,300&display=swap" rel="stylesheet">
+
+    <style>
+
+      body {
+        background-color: #f7d0ec;
+      }
+
+      h1 {
+        font-family: Montserrat, sans-serif;
+        letter-spacing: 2px;
+        line-height: 50px;
+        font-size: 50px;
+        font-weight: 200;
+        background-color: #dfaaaa;
+        padding: 30px 80px;
+        color: rgb(58, 14, 41);
+      }
+
+      .indice {
+        padding-top: 50px;
+      }
+
+      h3 {
+        font-family: Roboto, sans-serif;
+        font-size: 30px;
+        font-weight: 300;
+        color: rgb(58, 14, 41);
+        letter-spacing: 1px;   
+        font-style:oblique;
+        padding-left: 30px;
+        line-height: 0px;
+        padding-top: 10px;
+      }
+
+      .destaques {
+        font-style: italic;
+      }
+
+      .empatia {
+        font-size: 20px;
+      }
+
+      .trabalho-em-equipe {
+        font-size: 19px;
+      }
+
+      .ingles {
+        font-size: 18px;
+      }
+
+      a {
+        font-size: 18px;
+        text-decoration: none;
+        color:rgb(77, 28, 58); 
+        background-color: #dfaaaa;
+        border-radius: 50%;
+        padding: 10px; 
+      }
+
+      li {
+        color: rgb(82, 55, 71); 
+        padding: 15px; 
+        padding-left: 1px;           
+      }
+
+      ul {
+        padding-left: 25px;
+      }
+
+      p {
+        padding-left: 20px;
+        font-family: Roboto, sans-serif;
+        color: #4e2b2b;
+        font-style: oblique;
+      }
+
+      .foto {
+        border-radius: 30px;       
+      }
+
+    </style>
+
   </head>
   <body>
     <h1>Cinthya Mayumi Kuniyoshi</h1>
 
-    <h3>Índice</h3>
+    <h3 class="indice">Índice</h3>
 
     <ul>
         <li><a href="#foto">Foto</a></li>
@@ -16,24 +104,24 @@
         <li><a href="#links">Links externos</a></li>
     </ul>
 
-   <p id="foto"><img src="mayu.jpeg" alt="Mayumi" width="300px">
+   <p id="foto"><img class="foto" src="mayu.jpeg" alt="Mayumi" width="300px">
 
     <p id="sobre"><h3></p>Sobre mim</h3>
-   <p>Oii! Meu nome é <strong>Mayumi</strong>, tenho 22 anos, sou brasileira, nasci e cresci em São Paulo, SP.</p>
+   <p>Oii! Meu nome é <strong class="destaques">Mayumi</strong>, tenho 22 anos, sou brasileira, nasci e cresci em São Paulo, SP.</p>
    
     <h3><p id="habilidades"></p>Habilidades</h3>
     <ul>
-      <li><em>Empatia</em></li>
-      <li>Trabalho em equipe</li>
-      <li>Inglês avançado</li>
+      <li><em class="destaques empatia">Empatia</em></li>
+      <li class="trabalho-em-equipe">Trabalho em equipe</li>
+      <li class="ingles">Inglês avançado</li>
     </ul>
 
     <h3><p id="links">Links externos</h3>
     <ul>
+      <li><a href="https://github.com/mayukuni">Github</a></li>
       <li><a href="https://twitter.com/mayukyuumi">Twitter</a></li>
       <li><a href="https://www.instagram.com/mayu_kuni/">Instagram</a></li>
       <li><a href="https://www.linkedin.com/in/mayumikuniyoshi/"><em>Linkedin</em></a></li>
-      <li><a href="https://github.com/mayukuni">Github</li>
     </ul>
 
   
