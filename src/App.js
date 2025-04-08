@@ -2,7 +2,8 @@ import './App.css';
 import Home from './pages/Home';
 import Ux from './pages/Ux';
 import Gatinho from './pages/Gatinho';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+
 
 function App() {
   return (
