@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.893be0a0.css",
-    "main.js": "/static/js/main.56d77b01.js",
+    "main.css": "/static/css/main.79b7bd12.css",
+    "main.js": "/static/js/main.d4026f19.js",
     "static/js/787.93d49521.chunk.js": "/static/js/787.93d49521.chunk.js",
     "static/media/screenshot-recipes.png": "/static/media/screenshot-recipes.916d69806b8865d99ae6.png",
     "static/media/screenshot-ghibli.png": "/static/media/screenshot-ghibli.5895279da7ca4b60db3a.png",
-    "static/media/mayuu.png": "/static/media/mayuu.1ce5b5e96f3e3c9c0f5c.png",
+    "static/media/mayuu.png": "/static/media/mayuu.eefd2aafcecc2d3f02ac.png",
+    "static/media/screenshot-museu-frontend.png": "/static/media/screenshot-museu-frontend.7af1ce65e3c2db68f6e9.png",
     "static/media/screenshot-music-producer.png": "/static/media/screenshot-music-producer.de3ef20315c2cb98a998.png",
     "static/media/screenshot-trivia.png": "/static/media/screenshot-trivia.cb47ae6120a95ca96dd6.png",
     "static/media/pixelart.png": "/static/media/pixelart.698c227307ddb3282258.png",
     "static/media/github.svg": "/static/media/github.3b21c250a99986431958daaa9246a45a.svg",
     "index.html": "/index.html",
     "static/media/linkedin.svg": "/static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
-    "main.893be0a0.css.map": "/static/css/main.893be0a0.css.map",
-    "main.56d77b01.js.map": "/static/js/main.56d77b01.js.map",
+    "main.79b7bd12.css.map": "/static/css/main.79b7bd12.css.map",
+    "main.d4026f19.js.map": "/static/js/main.d4026f19.js.map",
     "787.93d49521.chunk.js.map": "/static/js/787.93d49521.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.893be0a0.css",
-    "static/js/main.56d77b01.js"
+    "static/css/main.79b7bd12.css",
+    "static/js/main.d4026f19.js"
   ]
 }
