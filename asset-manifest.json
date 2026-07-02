@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.79b7bd12.css",
-    "main.js": "/static/js/main.d4026f19.js",
+    "main.js": "/static/js/main.bcbb797c.js",
     "static/js/787.93d49521.chunk.js": "/static/js/787.93d49521.chunk.js",
     "static/media/screenshot-recipes.png": "/static/media/screenshot-recipes.916d69806b8865d99ae6.png",
     "static/media/screenshot-ghibli.png": "/static/media/screenshot-ghibli.5895279da7ca4b60db3a.png",
     "static/media/mayuu.png": "/static/media/mayuu.eefd2aafcecc2d3f02ac.png",
-    "static/media/screenshot-museu-frontend.png": "/static/media/screenshot-museu-frontend.7af1ce65e3c2db68f6e9.png",
     "static/media/screenshot-music-producer.png": "/static/media/screenshot-music-producer.de3ef20315c2cb98a998.png",
     "static/media/screenshot-trivia.png": "/static/media/screenshot-trivia.cb47ae6120a95ca96dd6.png",
     "static/media/pixelart.png": "/static/media/pixelart.698c227307ddb3282258.png",
@@ -14,11 +13,11 @@
     "index.html": "/index.html",
     "static/media/linkedin.svg": "/static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
     "main.79b7bd12.css.map": "/static/css/main.79b7bd12.css.map",
-    "main.d4026f19.js.map": "/static/js/main.d4026f19.js.map",
+    "main.bcbb797c.js.map": "/static/js/main.bcbb797c.js.map",
     "787.93d49521.chunk.js.map": "/static/js/787.93d49521.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79b7bd12.css",
-    "static/js/main.d4026f19.js"
+    "static/js/main.bcbb797c.js"
   ]
 }
